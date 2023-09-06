@@ -1,3 +1,3 @@
 👋
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+(https://img.shields.io/badge/os-linux-purple)
